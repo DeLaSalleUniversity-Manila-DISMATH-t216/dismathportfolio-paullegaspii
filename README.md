@@ -2,7 +2,7 @@
 ##My DISMATH Weekly Portfolio
 ##Week 1
 - I was introduced to the course Discrete Mathematics (DISMATH).
-- Personally, I feel the need to give an extra effort in this subject if I want to get a high grade. This course isn't like the normal math.
+- Personally, I feel the need to give an extra effort in this subject if I want to get a high grade. This course isn't like the normal math courses.
 
 ##Week 2
 - We discussed new and old terms such as: proof, proposition, logical deduction, axiom, premises, and axiom of equality.
@@ -23,4 +23,4 @@
 - We were also introduced to Quantifiers, Existential Quantifier ("There Exist") and Universal Quantifier ("For All"), to simplify general arguments 
 - We discuused their main components as: argument, validity, and pattern.
 - We also discussed the 5 proofs: direct, contraposition, vacuous & trivial, contradiction, and equivalence.
-- Personally, this is the hardest week for me. But I am determined that "If I study hard, I will get a high scire in the exam."
+- Personally, this is the hardest week for me. But I am determined that "If I study hard, I will get a high score in the exam."
